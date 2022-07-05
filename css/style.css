@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: 550ms;
+}
+/*HEADER AREA*/
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #62C2EE;
+
+    height: 90px;
+    padding: 20px;
+    color: white;
+
+    font-family: 'Finlandica', Arial, Helvetica, sans-serif;
+
+    opacity: 0.5;
+
+    transition: 500ms;
+
+    margin-bottom: 50px;
+}
+
+header:hover{
+    height: 125px;
+    opacity: 1;
+}
+header > h1{
+    font-size: 3rem;
+    transition: 500ms
+}
+
+header > h1:hover{
+    font-size: 2.9rem;
+}
+
+#light-mode:hover{
+    animation: balance 1s infinite alternate ;
+}
+
+/*MAIN AREA*/
+
+body{
+    background-color: #f1e1e1;
+}
+
+body > section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    padding: 50px;
+}
+
+body > section > h1{
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+    font-size: 3.5rem;
+
+    text-align: center;
+
+    margin-bottom: 50px;
+    
+}
+
+img#me{
+    max-width: 400px;
+    border-radius: 100%;
+
+}
+
+main{
+    padding: 70px;
+
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+/*CLASSES FOR DARK MODE*/
+
+.invisible{
+    display: none;
+}
+.icon-dark{
+    filter: invert(100%);
+}
+
+.header-dark{
+    background: #2C576B;
+}
+
+.text-dark{
+    color:white
+}
+
+.background-dark{
+    background-color: rgb(30, 31, 31);
+}

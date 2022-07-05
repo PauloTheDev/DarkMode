@@ -1,0 +1,11 @@
+@keyframes balance {
+
+    0%{
+        transform: rotate(50deg);
+
+    }
+
+    100%{
+        transform: rotate(-50deg)
+    }
+}
