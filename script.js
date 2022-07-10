@@ -2,7 +2,7 @@
 //MADE BY: @PauloTheDev
 //DATE: July 5, 2022
 
-//CAPTURES
+//===========CAPTURES===========\\
 const lightZone = document.querySelector('#light-mode');
     const icons = document.querySelectorAll('.icon');
 
@@ -12,7 +12,7 @@ const h1 = document.querySelectorAll('h1');
 const paragraph = document.querySelectorAll('p');
 
 
-//DARK MODE FUNCTION
+//==========DARK MODE FUNCTION==========\\
 lightZone.addEventListener('click', ()=>{
     
     //Change the icon
