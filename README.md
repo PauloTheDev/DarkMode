@@ -11,4 +11,15 @@
 </ul>
 
 <hr>
+
+<h2>SCREENSHOTS</h2>
+<img src='screenshots/lightMode.png'>
+<em>Site in light-mode</em>
+
+<img src='screenshots/darkMode.png'>
+<em>Site in dark-mode</em>
+
+<hr>
+<br>
 <footer>Made by: @PauloTheDev </footer>
+
