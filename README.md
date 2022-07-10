@@ -13,7 +13,7 @@
 <hr>
 
 <h2>SCREENSHOTS</h2>
-<img src='https://drive.google.com/file/d/12VeVDp6gj1RkpXLhoIMg_HTV7f5oI5VT/view?usp=sharing'>
+<img src='screenshots/darkMode.png'>
 <em>Site in light-mode</em>
 
 <img src='screenshots/darkMode.png'>
