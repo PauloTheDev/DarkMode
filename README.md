@@ -13,10 +13,10 @@
 <hr>
 
 <h2>SCREENSHOTS</h2>
-<img src='screenshots/darkMode.png'>
+<img src='lightMode.png'>
 <em>Site in light-mode</em>
 
-<img src='screenshots/darkMode.png'>
+<img src='darkMode.png'>
 <em>Site in dark-mode</em>
 
 <hr>
